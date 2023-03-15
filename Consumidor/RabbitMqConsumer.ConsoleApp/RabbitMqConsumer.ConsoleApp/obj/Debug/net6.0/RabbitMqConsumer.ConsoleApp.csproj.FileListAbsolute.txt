@@ -1,0 +1,17 @@
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\bin\Debug\net6.0\RabbitMqConsumer.ConsoleApp.exe
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\bin\Debug\net6.0\RabbitMqConsumer.ConsoleApp.deps.json
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\bin\Debug\net6.0\RabbitMqConsumer.ConsoleApp.runtimeconfig.json
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\bin\Debug\net6.0\RabbitMqConsumer.ConsoleApp.dll
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\bin\Debug\net6.0\RabbitMqConsumer.ConsoleApp.pdb
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\RabbitMqConsumer.ConsoleApp.csproj.AssemblyReference.cache
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\RabbitMqConsumer.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\RabbitMqConsumer.ConsoleApp.AssemblyInfoInputs.cache
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\RabbitMqConsumer.ConsoleApp.AssemblyInfo.cs
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\RabbitMqConsumer.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\RabbitMqConsumer.ConsoleApp.csproj.CopyComplete
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\RabbitMqConsumer.ConsoleApp.dll
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\refint\RabbitMqConsumer.ConsoleApp.dll
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\RabbitMqConsumer.ConsoleApp.pdb
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\RabbitMqConsumer.ConsoleApp.genruntimeconfig.cache
+C:\Estudo\RabbitMq\Consumidor\RabbitMqConsumer.ConsoleApp\RabbitMqConsumer.ConsoleApp\obj\Debug\net6.0\ref\RabbitMqConsumer.ConsoleApp.dll
